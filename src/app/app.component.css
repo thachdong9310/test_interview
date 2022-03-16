@@ -1,0 +1,18 @@
+p {
+  font-family: Lato;
+}
+nav{
+position: absolute;
+width: 150px;
+height: 935px;
+background: #191718;
+color: aliceblue;
+
+}
+nav.a{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+}
